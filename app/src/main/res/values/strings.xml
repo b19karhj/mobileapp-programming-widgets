@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Widgets</string>
     <string name="background_img">Background img</string>
+    <string name="my_first_button">My First Button</string>
 </resources>
