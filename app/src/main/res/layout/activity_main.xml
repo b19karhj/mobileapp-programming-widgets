@@ -12,8 +12,10 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="70dp"
         android:adjustViewBounds="false"
         android:contentDescription="@string/background_img"
+        android:layout_marginTop="500dp"
         app:srcCompat="@drawable/ebichu" />
+
+
 </LinearLayout>
