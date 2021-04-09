@@ -18,7 +18,8 @@
         app:layout_constraintBottom_toTopOf="@+id/myNewBtn"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ebichu" />
+        app:srcCompat="@drawable/ebichu"
+        android:layout_marginStart="50dp" />
 
     <Button
         android:id="@+id/myNewBtn"
@@ -30,5 +31,12 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
+        android:layout_marginStart="80dp" />
+
+    <EditText
+        android:id="@+id/myText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Type here"
         />
 </androidx.constraintlayout.widget.ConstraintLayout>
