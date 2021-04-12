@@ -62,7 +62,9 @@ Jag har sedan valt att placera min text i botten. Jag har här inte ändrat någ
 ```
 
 
+Bild på slut resultatet.
 
+![](Screenshot_1618216797)
 
 
 
@@ -96,7 +98,7 @@ function errorCallback(error) {
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](android.png)
+![](Screenshot_1618216797)
 
 Läs gärna:
 
