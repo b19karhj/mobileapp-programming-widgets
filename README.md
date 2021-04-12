@@ -64,7 +64,7 @@ Jag har sedan valt att placera min text i botten. Jag har här inte ändrat någ
 
 Bild på slut resultatet.
 
-![](Screenshot_1618216797)
+![](Screenshot_1618216797.png)
 
 
 
